@@ -91,6 +91,7 @@ source(here::here("code/custom_functions.R"))
 ```
 
 ```{r excel-define-wb, include=FALSE}
+
 header_style <- createStyle(
   fontSize = 12,
   fontColour = "#0f0f0f",
